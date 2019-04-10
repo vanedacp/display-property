@@ -1,0 +1,19 @@
+.block {
+    height: 20px;
+    border: 1px solid blue;
+}
+
+.inline {
+    height: 30px;
+    border: 1px solid red;
+    width: 200px;
+}
+
+.display-inline {
+    height: 18px;
+    width: 15px;
+    background-color: yellow;
+    display: inline;
+    padding: 10px;
+    margin: 10px;
+}
